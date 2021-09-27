@@ -1,0 +1,16 @@
+.box{
+    
+    width:200px;
+    height:200px;
+    /* border:1px solid #ddd;*/
+    /*border-radius: 10px 0px 10px 0px;*/
+    margin:3%;
+    padding:1%;
+    /*background: #a569bd;*/
+   /* box-shadow: 0px 8px 8px -8px #000;*/
+    
+    transition:transform 5s ease-out;
+    transform-origin: top bottom ;
+    transform:rotate(2000deg);
+
+}
